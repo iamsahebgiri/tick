@@ -1,0 +1,19 @@
+;tick:0.0.1
+
+; quick brain dump
+- :: Buy oat milk
+- :: Reply to landlord about lease renewal
+
+; work stuff
+/ =2h +groww #android :: Fix trace batching crash on cold start
+- =1d p1 +groww #backend :: Publish error-code table for orders API
+- +groww #infra #blocked :: Spike new log drain for staging
+x =3h +groww #fno :: Hook P&L dashboard to ledger API
+
+; side project
+/ =30m +blog :: Draft post on Tick format
+~ +blog :: Add comments system ; killed scope
+
+- :: Test new task
+
+- :: Another task
