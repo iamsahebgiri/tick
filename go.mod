@@ -1,4 +1,4 @@
-module sahebg.dev/tick
+module github.com/iamsahebgiri/tick
 
 go 1.25.3
 

@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"sahebg.dev/tick/internal/model"
+	"github.com/iamsahebgiri/tick/internal/model"
 )
 
 var (

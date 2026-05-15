@@ -3,8 +3,8 @@ package cli
 import (
 	"fmt"
 
+	"github.com/iamsahebgiri/tick/internal/tickfile"
 	"github.com/spf13/cobra"
-	"sahebg.dev/tick/internal/tickfile"
 )
 
 func renderStatus(s string) string {

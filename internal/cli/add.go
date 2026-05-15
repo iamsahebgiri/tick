@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/iamsahebgiri/tick/internal/tickfile"
 	"github.com/spf13/cobra"
-	"sahebg.dev/tick/internal/tickfile"
 )
 
 var addCmd = &cobra.Command{

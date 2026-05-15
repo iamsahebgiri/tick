@@ -1,6 +1,6 @@
 package main
 
-import "sahebg.dev/tick/internal/cli"
+import "github.com/iamsahebgiri/tick/internal/cli"
 
 func main() {
 	cli.Execute()

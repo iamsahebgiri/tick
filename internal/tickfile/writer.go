@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"sahebg.dev/tick/internal/model"
+	"github.com/iamsahebgiri/tick/internal/model"
 )
 
 func FormatTask(task model.Task) string {

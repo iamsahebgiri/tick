@@ -3,7 +3,7 @@ package cli
 import (
 	"fmt"
 
-	"sahebg.dev/tick/internal/tickfile"
+	"github.com/iamsahebgiri/tick/internal/tickfile"
 )
 
 func updateTaskStatus(taskIdx int, newStatus string, note string) error {
