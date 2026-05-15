@@ -42,7 +42,7 @@ x +groww #backend :: Ship API endpoint
 ## Install
 
 ```bash
-go install github.com/iamsahebgiri/tick@latest
+go install github.com/iamsahebgiri/tick/cmd/tick@latest
 ```
 
 ![tick list output](docs/tick-cli-v0.0.1.png)
